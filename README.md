@@ -9,9 +9,14 @@ Sou estudante de **Desenvolvimento de Software** e tenho um grande interesse em 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=7UTI7&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
-## 💻 Tecnologias que estudo no meu dia a dia
+## 🛠️ Linguagens mais usadas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&hide_title=true&hide=html)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7UT17&layout=compact&hide_title=true&hide=html)
+
+## 📈 Porcentagem de Linguagens:
+
+![JavaScript](https://progress-bar.dev/100/?title=JavaScript)
+
 
 ### Algumas das tecnologias que uso:
 
