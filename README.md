@@ -11,7 +11,7 @@ Sou estudante de **Desenvolvimento de Software** e tenho um grande interesse em 
 
 ## 🛠️ Linguagens mais usadas:
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7UT17&layout=compact&hide_title=true&hide=html)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&hide_title=true&hide=html)
 
 ## 📈 Porcentagem de Linguagens:
 
