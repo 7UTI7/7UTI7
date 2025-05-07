@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, mundo! Eu sou Pedro! 👋
 
-<!--
-**7UTI7/7UTI7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Software** e tenho um grande interesse em criar soluções inovadoras e eficientes. Sempre busco aprender e aprimorar minhas habilidades com a tecnologia.
 
-Here are some ideas to get you started:
+- 🎓 **Atualmente**: Cursando Desenvolvimento de Software.
+- 💼 **Interesses**: Desenvolvimento FullStack, Inteligência Artificial, Banco de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=7UTI7&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
+## 💻 Tecnologias que estudo no meu dia a dia
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&hide_title=true&hide=html)
+
+### Algumas das tecnologias que uso:
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Node.js
+- MySQL
+- Git
+- Oracle
+
+### 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=7UTI7&show_icons=true&count_private=true)
+
+---
+
+## 🔥 Mais sobre mim:
+
+- Sou apaixonado por programação e gosto de enfrentar desafios técnicos.
+- Adoro aprender novas tecnologias e frameworks.
+
+---
+
+## 📞 Contato
+
+- 📧 **Email**: [pedro_graciani@hotmail.com](mailto:pedro_graciani@hotmail.com)
+- 🌐 **GitHub**: [7UT17](https://github.com/7UTI7)
