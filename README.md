@@ -13,10 +13,6 @@ Sou estudante de **Desenvolvimento de Software** e tenho um grande interesse em 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&hide_title=true&hide=html)
 
-## 📈 Porcentagem de Linguagens:
-
-![JavaScript](https://progress-bar.dev/100/?title=JavaScript)
-
 
 ### Algumas das tecnologias que uso:
 
