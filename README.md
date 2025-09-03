@@ -23,13 +23,8 @@ Sou estudante de **Desenvolvimento de Software** apaixonado por criar soluções
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&hide_title=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7UTI7)
-
 ## 🚀 Projetos em Destaque
 
-- **TaskManager**: App fullstack para gerenciar tarefas com Node.js e MySQL. [Ver repo](https://github.com/7UTI7/taskmanager)
-- **AI Bot**: Um bot simples de IA em JavaScript. [Ver repo](https://github.com/7UTI7/ai-bot)
-- (Adicione mais aqui!)
 
 ## 🔥 Mais sobre mim
 
@@ -39,4 +34,4 @@ Apaixonado por programação, adoro resolver problemas técnicos e aprender fram
 
 - 📧 **Email**: [pedro_graciani@hotmail.com](mailto:pedro_graciani@hotmail.com)
 - 🌐 **GitHub**: [7UTI7](https://github.com/7UTI7)
-- 🔗 **LinkedIn**: [Meu Perfil](https://linkedin.com/in/pedro-graciani)  (adicione se tiver!)
+- 🔗 **LinkedIn**: [Meu Perfil][(https://linkedin.com/in/pedro-graciani](https://www.linkedin.com/in/pedro-graciani-de-souza-149640354))
