@@ -1,44 +1,42 @@
 # Olá, mundo! Eu sou Pedro! 👋
 
-Sou estudante de **Desenvolvimento de Software** e tenho um grande interesse em criar soluções inovadoras e eficientes. Sempre busco aprender e aprimorar minhas habilidades com a tecnologia.
+Sou estudante de **Desenvolvimento de Software** apaixonado por criar soluções inovadoras. Recentemente, desenvolvi um app fullstack para gerenciamento de tarefas usando Node.js e MySQL. Sempre em busca de novos desafios para aprimorar minhas skills!
 
 - 🎓 **Atualmente**: Cursando Desenvolvimento de Software.
-- 💼 **Interesses**: Desenvolvimento FullStack, Inteligência Artificial, Banco de Dados.
+- 💼 **Interesses**: FullStack, Inteligência Artificial, Banco de Dados.
+- 🌟 **Objetivo**: Contribuir em projetos open source e explorar IA aplicada.
 
-## 💻 Estatísticas do GitHub
+## 🛠️ Tecnologias que uso
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=7UTI7&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-## 🛠️ Linguagens mais usadas:
+## 📊 Estatísticas do GitHub
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&hide_title=true&hide=html)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7UTI7&show_icons=true&count_private=true&hide_title=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&hide_title=true)
 
-### Algumas das tecnologias que uso:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7UTI7)
 
-- HTML5
-- CSS3
-- JavaScript
-- Java
-- Node.js
-- MySQL
-- Git
-- Oracle
+## 🚀 Projetos em Destaque
 
-### 📈 GitHub Stats
+- **TaskManager**: App fullstack para gerenciar tarefas com Node.js e MySQL. [Ver repo](https://github.com/7UTI7/taskmanager)
+- **AI Bot**: Um bot simples de IA em JavaScript. [Ver repo](https://github.com/7UTI7/ai-bot)
+- (Adicione mais aqui!)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=7UTI7&show_icons=true&count_private=true)
+## 🔥 Mais sobre mim
 
----
-
-## 🔥 Mais sobre mim:
-
-- Sou apaixonado por programação e gosto de enfrentar desafios técnicos.
-- Adoro aprender novas tecnologias e frameworks.
-
----
+Apaixonado por programação, adoro resolver problemas técnicos e aprender frameworks novos. Fora do código, curto hackathons e comunidades de devs.
 
 ## 📞 Contato
 
 - 📧 **Email**: [pedro_graciani@hotmail.com](mailto:pedro_graciani@hotmail.com)
-- 🌐 **GitHub**: [7UT17](https://github.com/7UTI7)
+- 🌐 **GitHub**: [7UTI7](https://github.com/7UTI7)
+- 🔗 **LinkedIn**: [Meu Perfil](https://linkedin.com/in/pedro-graciani)  (adicione se tiver!)
