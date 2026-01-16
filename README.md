@@ -35,4 +35,4 @@ Apaixonado por programação, adoro resolver problemas técnicos e aprender fram
 
 - 📧 **Email**: [pedro_graciani@hotmail.com](mailto:pedro_graciani@hotmail.com)
 - 🌐 **GitHub**: [7UTI7](https://github.com/7UTI7)
-- 🔗 **LinkedIn**: [Meu Perfil][(https://linkedin.com/in/pedro-graciani](https://www.linkedin.com/in/pedro-graciani-de-souza-149640354))
+- 🔗 **LinkedIn**: [Pedro Graciani De Souza][(https://linkedin.com/in/pedro-graciani](https://www.linkedin.com/in/pedro-graciani-de-souza-149640354))
