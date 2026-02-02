@@ -1,38 +1,53 @@
-# Olá, mundo! Eu sou Pedro! 👋
+# Olá, mundo! Eu sou o Pedro! 👋
 
-Sou estudante de **Desenvolvimento de Software** apaixonado por criar soluções inovadoras. Recentemente, desenvolvi um app fullstack para gerenciamento de tarefas usando Node.js e MySQL. Sempre em busca de novos desafios para aprimorar minhas skills!
+Sou estudante de **Desenvolvimento de Software Multiplataforma na Fatec Zona Leste**, apaixonado por entender como as coisas funcionam — do hardware ao software.
 
-- 🎓 **Atualmente**: Cursando Desenvolvimento de Software.
-- 💼 **Interesses**: FullStack, Inteligência Artificial, Banco de Dados.
-- 🌟 **Objetivo**: Contribuir em projetos open source e explorar IA aplicada.
+Minha jornada começou na manutenção de computadores, o que me deu uma base sólida de troubleshooting e infraestrutura. Hoje, meu foco é o **Desenvolvimento Full Stack**, criando aplicações que conectam interfaces modernas (React) a backends robustos e bancos de dados bem estruturados.
 
-## 🛠️ Tecnologias que uso
+- 🎓 **Atualmente**: Aprofundando conhecimentos em arquitetura de software e bancos de dados.
+- 🚀 **Foco**: Full Stack (React.js + Node.js/Python).
+- 💡 **Objetivo**: Criar soluções que resolvam problemas reais, com código limpo e performático.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+---
+
+## 🛠️ Meu Arsenal de Tecnologias
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Python
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7UTI7&show_icons=true&count_private=true&hide_title=true)
+<div align="center">
+  <a href="https://github.com/7UTI7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7UTI7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&theme=dracula"/>
+  </a>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&hide_title=true)
+---
 
-## 🚀 Projetos em Destaque
+## 📞 Vamos nos conectar?
 
-[ColaboraMundo](https://github.com/RaphaelTrindadeOlho/ColaboraMundo) - Um site para facilitar colaborações e conectar projetos alinhados aos Objetivos de Desenvolvimento Sustentável (ODS). Esse projeto busca incentivar parcerias e fomentar iniciativas voltadas para um mundo mais sustentável.
+Se você quer falar sobre tecnologia, projetos ou apenas trocar uma ideia, me chame:
 
-
-## 🔥 Mais sobre mim
-
-Apaixonado por programação, adoro resolver problemas técnicos e aprender frameworks novos. Fora do código, curto hackathons e comunidades de devs.
-
-## 📞 Contato
-
+- 🔗 **LinkedIn**: [Pedro Graciani De Souza](https://www.linkedin.com/in/pedro-graciani-de-souza-149640354)
 - 📧 **Email**: [pedro_graciani@hotmail.com](mailto:pedro_graciani@hotmail.com)
-- 🌐 **GitHub**: [7UTI7](https://github.com/7UTI7)
-- 🔗 **LinkedIn**: [Pedro Graciani De Souza][(https://linkedin.com/in/pedro-graciani](https://www.linkedin.com/in/pedro-graciani-de-souza-149640354))
