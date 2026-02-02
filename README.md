@@ -38,8 +38,8 @@ Minha jornada começou na manutenção de computadores, o que me deu uma base s�
 
 <div align="center">
   <a href="https://github.com/7UTI7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7UTI7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=7UTI7&show_icons=true&theme=dracula&include_all_commits=true" height="180" alt="Stats do Pedro" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7UTI7&layout=compact&theme=dracula" height="180" alt="Linguagens mais usadas" />
   </a>
 </div>
 
